@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  <a href="hello">hello</a>
+  <a href="hello">hello</a><br/>
+  <a href="async">/async</a>
   </body>
 </html>
